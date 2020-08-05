@@ -1,0 +1,11 @@
+{
+  "name": "sample-node-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dwy",
+  "license": "MIT",
+  "bin": "./cli.js",
+  "dependencies": {
+    "ejs": "^3.1.3"
+  }
+}
